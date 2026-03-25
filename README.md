@@ -1,4 +1,4 @@
-# Linux Baseline
+# Linux Baseline 🐧 
 
 A single Bash script that captures a complete security baseline snapshot of any Linux system — no dependencies, no setup, just run it.
 
