@@ -59,7 +59,7 @@ Open the report:
 
 ```bash
 open baseline-report.html      # macOS
-xdg-open baseline-report.html  # Linux
+xdg-open baseline-report.html  # Linux - if a desktop environment is installed.
 ```
 
 **Requirements:** Standard Linux utilities only — `ss` or `netstat`, `ps`, `find`, `last`, `lsmod`. Nothing to install.
